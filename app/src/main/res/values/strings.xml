@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HW14_Camera</string>
+    <string name="my_name">Чечуров Владимир Сергеевич БПИ227</string>
+    <string name="button_string">TAKE A PHOTO</string>
+</resources>
